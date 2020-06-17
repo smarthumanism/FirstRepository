@@ -2,7 +2,7 @@
 
 ## 1주차 과제 (2020.06.15)
  * [인공지능 사례 분석](1주차_과제.ipynb)
-   [(안 열릴 시 nbviewer 링크)](https://github.com/smarthumanism/FirstRepository/blob/master/1%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
+   [(안 열릴 시 nbviewer 링크)](https://nbviewer.jupyter.org/github/smarthumanism/FirstRepository/blob/master/1%EC%A3%BC%EC%B0%A8_%EA%B3%BC%EC%A0%9C.ipynb)
 ## 2주차 과제 (2020.06.16)
  * [파이썬과 인공지능 기초수학](2주차과제.ipynb)
 ## 3주차 과제 (2020.06.17)
